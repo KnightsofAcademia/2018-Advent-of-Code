@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Example project of solutions by the Knights of Academia to the 2017 Advent of Code Challenge",
   "scripts": {
-    "day-1": "echo 'Day-1'",
+    "day-1": "node ./day-1/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Knights of Academia",
